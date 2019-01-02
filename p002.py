@@ -3,7 +3,7 @@ def sumOfEvenFibs(sumLimit):
     Assumes sumLimit is non-negative.
     Returns the sum of even terms of in the Fibonacci series.
     
-    >>> sumOfEvenFibs(10)
+    >>> sumOfEvenFibs(1000)
     798
     """
     
